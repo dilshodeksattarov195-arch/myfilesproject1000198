@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdave",
+        "uuid": 925254,
+        "checksum": "uyvga7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
